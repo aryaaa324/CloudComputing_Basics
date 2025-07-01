@@ -1,3 +1,7 @@
+## Cloud Computing 
+This repository contain the basics of Cloud Computing for a beginner who is starting with his cloud journey
+
+----
 ## How Websites Work – Simple Explanation
 **1. 🌐 What is a Website?**
 A website is just a bunch of files (like text, images, videos) stored on a special computer called a server.
