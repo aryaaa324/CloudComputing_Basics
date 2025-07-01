@@ -45,7 +45,6 @@ It includes:
 - 🔄 Switches: Send your request to the right computer
 - 🌍 Cables/Wi-Fi: Carry your data
 - 🎯 Think of it like roads and highways that deliver your message to the right place.
-----
 
 **🏠 How Websites Were Hosted in the Past (Before the Cloud)**
 Long ago, if someone wanted to create a website:
