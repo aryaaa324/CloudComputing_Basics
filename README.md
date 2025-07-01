@@ -1,4 +1,4 @@
-## Cloud Computing 
+# Cloud Computing 
 This repository contain the basics of Cloud Computing for a beginner who is starting with his cloud journey
 
 ----
